@@ -10,3 +10,7 @@ modified by dev
 master here
 dev
 The boss tells me should do the bug first!
+we are now on branch of dev
+, some bugs have to fixed ,
+so, we will use stash command.
+
